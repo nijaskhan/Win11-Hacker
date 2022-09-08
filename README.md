@@ -17,6 +17,9 @@ Attacker listening through netcat using command :
                                           
 DOWNLOAD NETCAT USNG THIS LINK : https://www.4sync.com/web/directDownload/aNHtMRp8/CggsuJhW.bdb188ac3bdd769e50388897cadb0c05
 
+ AN EXAMPLE WITH PICTURE OF GETTING A REVERSE CONNECTION FROM THE VICTIM :
+ 
+ ![Screenshot (64)](https://user-images.githubusercontent.com/92925838/189043297-f2ff5f2d-3c37-4a34-b592-ea71183152f4.png)
+ 
 After getting access use the POWERSHELL commands. (WE CAN DO ANYTHING WITH THE SHELL)
-
 If you dont know powershell commands, then google the powershell commands.
