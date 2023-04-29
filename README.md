@@ -15,7 +15,7 @@ Attacker listening through netcat using command :
                                    
 ![Screenshot (63)](https://user-images.githubusercontent.com/92925838/189040210-c8176f0c-9c0d-475d-8ced-33a1bce53f8b.png)
                                           
-DOWNLOAD NETCAT USNG THIS LINK : https://github.com/EthanHunt0001/Win11-Hacker/raw/main/netcat.zip
+DOWNLOAD NETCAT USNG THIS LINK : https://github.com/nijaskhan/Win11-Hacker/raw/main/netcat.zip
 
  AN EXAMPLE WITH PICTURE OF GETTING A REVERSE CONNECTION FROM THE VICTIM :
  
